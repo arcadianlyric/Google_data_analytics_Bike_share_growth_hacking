@@ -2,3 +2,13 @@ capstone_project/bike_share/data
 capstone_project/smart_device/data
 capstone_project/doc
 *.zip
+*.pdf
+*.csv
+capstone_project/bike_share/src/eda.ipynb
+
+capstone_project/notes.txt
+capstone_project/bike_share/img/member_start.png
+capstone_project/bike_share/img/casual_start.png
+capstone_project/notes.txt
+capstone_project/bike_share/src/.ipynb_checkpoints/eda-checkpoint.ipynb
+capstone_project/bike_share/src/.ipynb_checkpoints/bike_share_analysis-checkpoint.ipynb
