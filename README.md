@@ -47,14 +47,14 @@ Riding time, distance, speed
 #### Share
 5. Supporting visualizations and key findings \
 key findings:  
-1/ Station usage by member and casual rides vary. Stations popular among casual rides include many recreative palces, such as Streeter Dr & Grand Ave (close to the Navy pier), Millennium Park, Shedd Aquarium etc. 
-![img](img/station_usage_compare.png)
-
+1/ Station usage by member and casual rides vary. Stations popular among casual rides include many recreative palces, such as Streeter Dr & Grand Ave (close to the Navy pier), Millennium Park, Shedd Aquarium etc.  
+![img](capstone_project/bike_share/img/station_usage_compare.png)
+![img](capstone_project/bike_share/img/station_popularity_compare)
 2/ Casual rides take longer time, longer speed.  
 3/ On weekend there are more casual rides and less member rides. Most rides start on Noon and Evening.    
-![img](img/time_length_time_type.pdf)
-![img](img/time_length_weekday.pdf)
-![img](img/time_length_weekofyear.pdf)
+![img](capstone_project/bike_share/img/time_length_time_type.png)
+![img](capstone_project/bike_share/img/time_length_weekday.png)
+![img](capstone_project/bike_share/img/time_length_weekofyear.png)
 
 #### Act
 6. Your top three recommendations based on your analysis  
