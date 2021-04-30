@@ -51,20 +51,20 @@ key findings:
 ![img](capstone_project/bike_share/img/station_usage_compare.png)
 ![img](capstone_project/bike_share/img/station_popularity_compare.png)
 
-2/ Casual rides take longer time, longer speed.  
-3/ On weekend there are more casual rides and less member rides. Most rides start on Noon and Evening.    
+2/ Casual rides take longer time, longer speed, seemingly wondering aroung the city.  
+3/ On weekend there are more casual rides and less member rides. Most rides start on Noon and Evening for both groups. It seems membres do not primarily ride for commute, which will show pattern of dual peaks on morning and evening. Perhaps for lunch/ dinner and shopping, places with limited parking.        
 ![img](capstone_project/bike_share/img/time_length_time_type.png)
 ![img](capstone_project/bike_share/img/time_length_weekday.png)
 ![img](capstone_project/bike_share/img/time_length_weekofyear.png)
 
 #### Act
 6. Your top three recommendations based on your analysis  
-The time profile of casual riders show that they are for recreative purpose, could be tourists. If most are from other sates, they are unlikely to be converted to members.  
-1/  The time
+The time spacial profile of casual riders shows that they are likely for recreative purpose, possible tourists. If most are from other sates, they are unlikely to be converted to annual members. More date are needed to make reliable recommendations.  Yet, as members ride on weekends and not for commuting, it is possible to convert more casual users by introducing they ways of daily use of the bike.   
+1/  
 2/  
 3/  
 
-#### Act Next
+#### Next
 Additional data needed to answer others questions  
 2. Why would casual riders buy Cyclistic annual memberships?   
 Need credit card or other indentity information to identify purchase made by same users and investigate conversion rate from casual to member.  
