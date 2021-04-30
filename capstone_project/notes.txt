@@ -1,0 +1,17 @@
+capstone  
+1/ smart device  
+kaggel, data  
+addtional data ?
+2/ bike share  
+using big query ?  
+map visuization with geo api/ tableau    
+(citi bike project ml + falsk)  
+conversion rate  
+add a/b test    
+
+#### data cleaning
+1/ data format diff across years, station ID the same  
+focus on recent trend, 2021 (2019, 2018; 2020 outlier)  
+2/ cat table by year
+
+3/ id not int
