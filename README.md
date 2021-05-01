@@ -34,7 +34,7 @@ Data downloaded from a [public source](https://divvy-tripdata.s3.amazonaws.com/i
 3. Documentation of any cleaning or manipulation of data \
 Followed the standard data cleaning process (details see bike_share_report.ipynb): \
 Removed missing values \
-Removed outliers  
+Checked outliers, data bias    
 Created new metrics (riding time length, distance, time types of the day etc.)  
 
 #### Analyze
