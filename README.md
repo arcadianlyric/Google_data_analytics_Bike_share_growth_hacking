@@ -64,8 +64,8 @@ key findings:
 6. Your top three recommendations based on your analysis  
 The time spacial profile of casual riders shows that they are likely for recreative purpose, possible tourists. If most are from other sates, they are unlikely to be converted to annual members. More data on member behavior are needed to make reliable recommendations.  Yet, as members ride on weekends and not for commuting, it is possible to convert more casual users by introducing they ways of daily use of the bike.   
 1/  Consider to launch campaign/ads (in summer) to show casual riders possible ways to use bike for daily activities, such as lunch, shopping, etc.  
-2/  Investigate wether there are enough bikes at the popular stations during peaks hours; If people find no bike when needed, poor user experience will hurt conversion.  
-3/  Study previous conversion data to make predictions.   
+2/  Furhter investigate how members use bikes for weekday/daily activities (design survey etc.) to learn their habits.    
+3/  Study previous conversion data to make predictions. Investigate whether there are enough bikes at the popular stations during peaks hours; If people find no bike when needed, poor user experience will hurt conversion.  
 
 #### Next
 Additional data needed to answer others questions  
