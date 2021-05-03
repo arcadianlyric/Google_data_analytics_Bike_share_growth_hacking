@@ -33,9 +33,9 @@ Data downloaded from a [public source](https://divvy-tripdata.s3.amazonaws.com/i
 #### Process
 3. Documentation of any cleaning or manipulation of data \
 Followed the standard data cleaning process (details see bike_share_report.ipynb): \
-Removed missing values \
+Removed (or impute) missing values \
 Checked outliers, data bias    
-Created new metrics (riding time length, distance, time types of the day etc.)  
+Created new metrics (riding time length, distance, time types of the day etc.) to investigate rider behaviors.    
 
 #### Analyze
 4. A summary of your analysis \
@@ -62,9 +62,9 @@ key findings:
 
 #### Act
 6. Your top three recommendations based on your analysis  
-The time spacial profile of casual riders shows that they are likely for recreative purpose, possible tourists. If most are from other sates, they are unlikely to be converted to annual members. More data on member behavior are needed to make reliable recommendations.  Yet, as members ride on weekends and not for commuting, it is possible to convert more casual users by introducing they ways of daily use of the bike.   
-1/  Consider to launch campaign/ads (in summer) to show casual riders possible ways to use bike for daily activities, such as lunch, shopping, etc.  
-2/  Furhter investigate how members use bikes for weekday/daily activities (design survey etc.) to learn their habits.    
+The time spacial profile of casual riders shows that they are likely for recreative purpose, possible tourists. If most are from other sates, they are unlikely to be converted to annual members. More data on member behavior are needed to make reliable recommendations.  Yet, as members ride on weekends and not for commuting, it is possible to convert more casual users by introducing they ways of daily use of the bike.
+1/  Furhter investigate how members use bikes for weekday/daily activities (design survey etc.) to learn their habits.     
+2/  Consider to launch campaign/ads (in summer) to show casual riders possible ways to use bike for daily activities, such as lunch, shopping, etc.     
 3/  Study previous conversion data to make predictions. Investigate whether there are enough bikes at the popular stations during peaks hours; If people find no bike when needed, poor user experience will hurt conversion.  
 
 #### Next
