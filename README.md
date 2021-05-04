@@ -41,7 +41,7 @@ Created new metrics (riding time length, distance, time types of the day etc.) t
 4. A summary of your analysis \
 Scripts in bike_share_report.ipynb, following PEP8 coding standards. \
 Grouped ride cases by member/ casual to compare difference on time and spacial levels: \
-Time: hour of day, day of week, week of year \
+Stratification on time: hour of day, day of week, week of year \
 Spacial: most commonly used stations \
 Riding time, distance, speed  
 
@@ -52,10 +52,10 @@ key findings:
 ![img](capstone_project/bike_share/img/station_usage_compare.png)
 ![img](capstone_project/bike_share/img/station_popularity_compare.png)
 
-2/ Casual rides take longer time, lower speed, seemingly wondering around the city.  
+2/ Casual rides take longer time, lower speed (statistically significant), fits the profile that casual riders wondering around the city for recreation.  
 ![img](capstone_project/bike_share/img/dist_speed_time_length.png)
 
-3/ On weekend there are more casual rides and less member rides. Most rides start on Noon and Evening for both groups. It seems members do not primarily ride to commute, which will show pattern of dual peaks on morning and evening. More likely for lunch/ dinner and shopping, and for places with limited parking. Less rides on winter, when cold weahter prohibit outdoor activities.         
+3/ On weekend there are more casual rides and less member rides. Most rides start on Noon and Evening for both groups. It seems members do not primarily ride to commute, which will show a pattern of dual peaks on morning and evening. More likely for lunch/ dinner and shopping, or for places with limited parking. Less rides on winter, when cold weahter prohibits outdoor activities.         
 ![img](capstone_project/bike_share/img/time_length_time_type.png)
 ![img](capstone_project/bike_share/img/time_length_weekday.png)
 ![img](capstone_project/bike_share/img/time_length_weekofyear.png)
