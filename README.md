@@ -3,7 +3,7 @@
 ## Bike Share Growth Hacking Data Analysis
 I extended the project to reflect the whole life cycle of the data driven growth hacking process[1]:
 
-<img src="https://github.com/arcadianlyric/google_data_analytics/blob/main/capstone_project/bike_share/img/life_cycle.png" width="50%" height="50%">
+<img src="https://github.com/arcadianlyric/google_data_analytics/blob/main/capstone_project/bike_share/img/life_cycle.png" width="90%" height="80%">
 
 Starts with primary goal for the capstone project: **Analyze**
 
@@ -30,7 +30,7 @@ You will produce a report to answer the first question, with the following deliv
 
 Data analysis steps
 
-<img src="https://github.com/arcadianlyric/google_data_analytics/blob/main/capstone_project/bike_share/img/analysis_steps.png" width="50%" height="50%">
+<img src="https://github.com/arcadianlyric/google_data_analytics/blob/main/capstone_project/bike_share/img/analysis_steps.png" width="80%" height="80%">
 
 ## Ask
 1. A clear statement of the business task \
