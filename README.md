@@ -30,7 +30,7 @@ You will produce a report to answer the first question, with the following deliv
 
 Data analysis steps
 
-<img src="https://github.com/arcadianlyric/google_data_analytics/blob/main/capstone_project/bike_share/img/analysis_steps.png" width="80%" height="80%">
+<img src="https://github.com/arcadianlyric/google_data_analytics/blob/main/capstone_project/bike_share/img/analysis_steps.png" width="70%" height="70%">
 
 ## Ask
 1. A clear statement of the business task \
@@ -75,7 +75,7 @@ Details for analysis in [Jupyter notebook](https://github.com/arcadianlyric/goog
 
 ## Act
 6. Your top three recommendations based on your analysis  
-The time spacial profile of casual riders shows that they are likely for recreative purpose, possible tourists. If most are from other sates, they are unlikely to be converted to annual members. More data on member behavior are needed to make reliable recommendations.  Yet, as members ride on weekends and not for commuting, it is possible to convert more casual users by introducing they ways of daily use of the bike.
+The time spacial profile of casual riders shows that they are likely for recreative purpose, possible tourists. If most are from other sates, they are unlikely to be converted to annual members. More data on member behavior are needed to make reliable recommendations.  Yet, as members ride on weekends and not for commuting, it is possible to convert more casual users by introducing they ways of daily use of the bike.  
 1/  Design survey to further stratify and investigate members behavior (how they ride on weekday/weekend, demographic information, etc.) to learn user habits, behavior and features.     
 2/  Consider to launch campaign/ads (in summer) to show casual riders possible ways to use bike for daily activities, such as lunch, shopping, etc.     
 3/  Study previous data to find out features of riders most likely to be converted to members and design ads to target such population.  
@@ -96,13 +96,13 @@ Act: Consider to deliver digital media ads to the target population. Some A/B te
 Based on the ICE (impact, confidence, ease) method[1], we weill prioritize survey.
 ![img](capstone_project/bike_share/img/ice_table.png)
 
-Scenario:  
+**Scenario**  
 we have a mobile app for users to make payment, unlock bike by QR scan etc. So we could track user-id.   
 [Survey](capstone_project/bike_share/survey_design.pdf)
 
 ## Test
-**A/B Tets**
-Scenario:  
+### A/B Tets  
+**Scenario**  
 Based on our survey, we have identified that casual riders learned Cyclistic from www.wheretogochicago.com are more likely to be converted to members.   
 One marketing goal is to use digital media on conversion/retention, now we have designed new ads and want to test it's performance on this website by following some standard practice[2].
 A/B test design and report see [AB_test](capstone_project/bike_share/ab_test.pdf). 
