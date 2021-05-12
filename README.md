@@ -2,7 +2,7 @@
 
 ### Bike Share Growth Hacking Data Analysis
 I extended the project to reflect the whole life cycle of the data driven growth hacking process[1]:
-![img](capstone_project/bike_share/img/life_cycle.png)
+![img](capstone_project/bike_share/img/life_cycle.png | width=80)
 Starts with primary goal for the capstone project: **Analyze**
 
 #### Background
